@@ -1,5 +1,7 @@
 QuirkyNest
 
+file:///C:/Users/Prachi/Desktop/PROJECTS/BLOG%20WEBSITE/index.html
+
 This is a simple blog website project built using HTML and CSS. The website allows users to view blog posts with a clean and responsive design. It includes a homepage with a list of blog posts and individual pages for each post.
 
 Features
