@@ -2,6 +2,9 @@ QuirkyNest
 
 file:///C:/Users/Prachi/Desktop/PROJECTS/BLOG%20WEBSITE/index.html
 
+![Screenshot (69)](https://github.com/user-attachments/assets/3b5def16-72dd-4ee3-a9eb-2c0a469cf4bf)
+
+
 This is a simple blog website project built using HTML and CSS. The website allows users to view blog posts with a clean and responsive design. It includes a homepage with a list of blog posts and individual pages for each post.
 
 Features
@@ -17,4 +20,3 @@ CSS
 Contact
  Name - Prachi Choudhary
 
-Project Link:https://github.com/prachichoudhary2004/Blog_website
